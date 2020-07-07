@@ -12,3 +12,5 @@ After recording the sequence, the user will try to unlock the sentry.
 If the recorded sequence is different than the attempted sequence, the sentry will
 force the user to redo the sequence. If both sequences are the same, the sentry will
 unlock.
+
+YouTube video link: https://youtu.be/yOLNH1T1BG0
